@@ -1,14 +1,14 @@
 Hello World
-
+fdgdfhggfh
 Class MyClass
 {
 	static void main()
 	{
 		myMethod()
 		{
-				
+			syso.print "Hello"	
 		}
 
 	}
 
-}
+}gdfgdfg
