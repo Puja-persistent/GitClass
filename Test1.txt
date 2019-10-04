@@ -12,3 +12,7 @@ Class MyClass
 	}
 
 }gdfgdfg
+
+
+My method2(){
+}
