@@ -1,1 +1,3 @@
-hejdkks
+hejdkks,updated this bug 1 logic
+
+bug2 fixed,additional changes
