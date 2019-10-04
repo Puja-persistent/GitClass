@@ -20,7 +20,11 @@ syso
 
 my method3()
 	{
+
 		syso.print("Helo").hello.hi,how are you?
+
+		syso.print("Helo").hello.hi.i am fine
+
 	}
 	
 	
