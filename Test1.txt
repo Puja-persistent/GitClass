@@ -27,5 +27,6 @@ my method3()
 	
 	my method4()
 	{
-	SYSO.PRINT("added by user2")
+	SYSO.PRINT("added by user2,updated message")
+	syo"clean line added"
 	}
