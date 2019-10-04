@@ -1,3 +1,8 @@
+
 hejdkks .change in master bug1 logic by other team member
 
-additional changes
+
+hejdkks,updated this bug 1 logic
+
+bug2 fixed,additional changes
+
