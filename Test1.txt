@@ -22,3 +22,10 @@ my method3()
 	{
 		syso.print("Helo")
 	}
+	
+	
+	
+	my method4()
+	{
+	SYSO.PRINT("added by user2")
+	}
