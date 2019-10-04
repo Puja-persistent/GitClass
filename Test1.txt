@@ -16,4 +16,9 @@ Class MyClass
 
 My method2(){
 syso
-}
+	}
+
+my method3()
+	{
+		syso.print("Helo")
+	}
