@@ -30,3 +30,7 @@ my method3()
 	SYSO.PRINT("added by user2,updated message")
 	syo"clean line added"
 	}
+Mymethod5()
+{
+	syso
+}
